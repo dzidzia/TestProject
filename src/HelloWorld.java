@@ -5,7 +5,7 @@ public class HelloWorld {
 		System.out.print("Hello World ");
 		System.out.append('.');
 		Book b = new Book("GIT3");
-		System.out.println(b.getTitle());
+		System.out.println(b.getTitle() + "done by Dzidzia");
 	}
 
 }
