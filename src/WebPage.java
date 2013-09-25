@@ -6,6 +6,6 @@ public class WebPage {
 	}
 	
 	public String toString() {
-		return "I am webpage2";
+		return "I am webpage3";
 	}
 }
