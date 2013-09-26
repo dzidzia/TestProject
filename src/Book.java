@@ -6,7 +6,7 @@ public class Book {
 	private int pages;
 
 	private static String publisher="Home Inc.";
-	public Book(String s) {title = s; pages = 100; }
+	public Book(String s) {title = s; pages = 120; }
 
 	public String getTitle(){return title;}
 }
